@@ -8,4 +8,4 @@ I'm a web and mobile developer in training, passionate about learning and buildi
 - 📫 How to reach me: [beleth63@gmail.com](mailto:beleth63@gmail.com)
 - ⚡ Fun fact: I love coding and coffee!
 
-![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Seb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dralis63&show_icons=true&theme=radical)
